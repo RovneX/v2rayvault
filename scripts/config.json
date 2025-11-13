@@ -1,0 +1,40 @@
+{
+  "separate": {
+    "Russia": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Russia.txt",
+    "Germany": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Germany.txt",
+    "France": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/France.txt",
+    "United States": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/USA.txt",
+    "Iran": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Iran.txt",
+    "Japan": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Japan.txt",
+    "United Kingdom": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/UK.txt",
+    "Singapore": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Singapore.txt",
+    "Netherlands": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Netherlands.txt",
+    "Turkey": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Turkey.txt",
+    "Canada": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Canada.txt",
+    "Poland": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Poland.txt",
+    "Sweden": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Sweden.txt",
+    "India": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/India.txt",
+    "Brazil": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Brazil.txt",
+    "Italy": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Italy.txt",
+    "South Korea": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/South_Korea.txt",
+    "Australia": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Australia.txt",
+    "Indonesia": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Indonesia.txt",
+    "Spain": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Spain.txt",
+    "Finland": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Finland.txt",
+    "Denmark": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Denmark.txt",
+    "Switzerland": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Switzerland.txt",
+    "Norway": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Norway.txt",
+    "Lithuania": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Lithuania.txt",
+    "Argentina": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Argentina.txt",
+    "South Africa": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/South_Africa.txt",
+    "Mexico": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Mexico.txt",
+    "Thailand": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/Thailand.txt",
+    "UAE": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/UAE.txt"
+  },
+  "full": [
+    "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/list.txt"
+  ],
+  "modify_chance": 0.3,
+  "watermark_tag": "gh:RovneX"
+}
